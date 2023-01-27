@@ -1,0 +1,8 @@
+{
+  "name": "ventas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "65fa94c3"
+}
